@@ -1,0 +1,263 @@
+[
+  {
+    "id": "dacia-logan",
+    "name": "Logan",
+    "brand": "Dacia",
+    "year": 2018,
+    "expertRating": 3.5,
+    "communityRating": 3.7,
+    "commonIssues": [
+      "Défaillances du système électrique, notamment du verrouillage centralisé",
+      "Les composants de suspension s'usent rapidement sur les routes accidentées",
+      "Problèmes de rouille sur les modèles plus anciens, surtout autour des passages de roues",
+      "Les pièces de garniture intérieure se cassent facilement et peuvent se détacher"
+    ],
+    "comments": [
+      {
+        "name": "Alexandre",
+        "rating": 4,
+        "comment": "Excellente voiture économique. J'ai la mienne depuis 5 ans avec un minimum de problèmes. Il suffit de suivre l'entretien régulier."
+      },
+      {
+        "name": "Marie",
+        "rating": 3,
+        "comment": "Voiture correcte pour le prix, mais j'ai eu des problèmes électriques avec les vitres et le verrouillage centralisé."
+      }
+    ]
+  },
+  {
+    "id": "dacia-sandero",
+    "name": "Sandero",
+    "brand": "Dacia",
+    "year": 2019,
+    "expertRating": 3.8,
+    "communityRating": 4.0,
+    "commonIssues": [
+      "Défaillances d'embrayage signalées autour de 60 000 km",
+      "Fuites d'eau par les joints de porte sur certains modèles",
+      "Pannes du compresseur de climatisation",
+      "Problèmes de courroie de distribution si elle n'est pas remplacée aux intervalles recommandés"
+    ],
+    "comments": [
+      {
+        "name": "Jean",
+        "rating": 4,
+        "comment": "Meilleur rapport qualité-prix de sa catégorie. Spacieuse et fiable pour une voiture économique."
+      },
+      {
+        "name": "Elena",
+        "rating": 4,
+        "comment": "J'ai ma Sandero depuis 3 ans sans problèmes majeurs. Excellente voiture citadine."
+      }
+    ]
+  },
+  {
+    "id": "renault-clio",
+    "name": "Clio",
+    "brand": "Renault",
+    "year": 2020,
+    "expertRating": 4.2,
+    "communityRating": 4.1,
+    "commonIssues": [
+      "Problèmes électroniques avec le système d'infodivertissement",
+      "Problèmes de transmission automatique sur certains modèles",
+      "Usure prématurée des composants de suspension avant",
+      "Problèmes de filtre à particules diesel (FAP) sur les variantes diesel"
+    ],
+    "comments": [
+      {
+        "name": "Sophie",
+        "rating": 5,
+        "comment": "J'adore ma Clio ! Agréable à conduire et très économique. Aucun problème en 2 ans de possession."
+      },
+      {
+        "name": "David",
+        "rating": 3,
+        "comment": "Bonne voiture dans l'ensemble, mais quelques problèmes électriques avec le système d'infodivertissement."
+      }
+    ]
+  },
+  {
+    "id": "peugeot-208",
+    "name": "208",
+    "brand": "Peugeot",
+    "year": 2021,
+    "expertRating": 4.0,
+    "communityRating": 3.9,
+    "commonIssues": [
+      "Pannes d'écran tactile ou réponse lente",
+      "Problèmes de turbocompresseur sur les moteurs PureTech",
+      "Vibrations d'embrayage sur les transmissions manuelles",
+      "Pannes de pompe à eau entraînant une surchauffe"
+    ],
+    "comments": [
+      {
+        "name": "Thomas",
+        "rating": 4,
+        "comment": "Intérieur et extérieur élégants. Bonne économie de carburant mais l'écran tactile peut être frustrant."
+      },
+      {
+        "name": "Laura",
+        "rating": 3,
+        "comment": "Belle voiture mais problèmes de turbo à 45 000 km. Réparation coûteuse."
+      }
+    ]
+  },
+  {
+    "id": "opel-corsa",
+    "name": "Corsa",
+    "brand": "Opel",
+    "year": 2020,
+    "expertRating": 3.9,
+    "communityRating": 3.8,
+    "commonIssues": [
+      "Problèmes de chaîne de distribution sur les moteurs 1.0 et 1.2",
+      "Infiltrations d'eau dans l'habitacle depuis le montant A",
+      "Problèmes électriques avec la direction assistée",
+      "Usure prématurée de l'embrayage sur les transmissions manuelles"
+    ],
+    "comments": [
+      {
+        "name": "Michel",
+        "rating": 4,
+        "comment": "Qualité de construction solide et bonne tenue de route. J'ai la mienne depuis 4 ans avec seulement l'entretien de routine."
+      },
+      {
+        "name": "Anna",
+        "rating": 3,
+        "comment": "Voiture correcte mais pas aussi économe en carburant qu'annoncé. Quelques problèmes avec la direction assistée."
+      }
+    ]
+  },
+  {
+    "id": "citroen-c3",
+    "name": "C3",
+    "brand": "Citroën",
+    "year": 2019,
+    "expertRating": 3.7,
+    "communityRating": 3.9,
+    "commonIssues": [
+      "Problèmes de boîte de vitesses automatique sur certains modèles",
+      "Défaillances du système Stop & Start",
+      "Usure rapide des amortisseurs",
+      "Problèmes électriques intermittents"
+    ],
+    "comments": [
+      {
+        "name": "Philippe",
+        "rating": 4,
+        "comment": "Très confortable avec une excellente suspension. Parfaite pour la ville et économique."
+      },
+      {
+        "name": "Céline",
+        "rating": 3,
+        "comment": "Design original mais quelques problèmes de fiabilité avec l'électronique."
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-polo",
+    "name": "Polo",
+    "brand": "Volkswagen",
+    "year": 2018,
+    "expertRating": 4.3,
+    "communityRating": 4.2,
+    "commonIssues": [
+      "Problèmes de double embrayage DSG sur certains modèles",
+      "Défaillances du système d'infodivertissement",
+      "Fuites d'eau dans le coffre",
+      "Problèmes de bobines d'allumage sur les moteurs TSI"
+    ],
+    "comments": [
+      {
+        "name": "Martin",
+        "rating": 5,
+        "comment": "Excellente qualité de fabrication et très fiable. Consommation d'essence impressionnante."
+      },
+      {
+        "name": "Julie",
+        "rating": 4,
+        "comment": "Bonne voiture polyvalente, mais l'entretien peut être coûteux chez les concessionnaires."
+      }
+    ]
+  },
+  {
+    "id": "ford-fiesta",
+    "name": "Fiesta",
+    "brand": "Ford",
+    "year": 2019,
+    "expertRating": 4.1,
+    "communityRating": 4.0,
+    "commonIssues": [
+      "Problèmes de transmission PowerShift sur certains modèles",
+      "Défaillances du système de climatisation",
+      "Usure prématurée des freins",
+      "Problèmes électriques avec les capteurs"
+    ],
+    "comments": [
+      {
+        "name": "Pierre",
+        "rating": 4,
+        "comment": "Excellente tenue de route et très amusante à conduire. Bonne économie de carburant."
+      },
+      {
+        "name": "Isabelle",
+        "rating": 3,
+        "comment": "Bonne petite voiture mais l'espace intérieur est limité pour les passagers arrière."
+      }
+    ]
+  },
+  {
+    "id": "toyota-yaris",
+    "name": "Yaris",
+    "brand": "Toyota",
+    "year": 2020,
+    "expertRating": 4.4,
+    "communityRating": 4.5,
+    "commonIssues": [
+      "Problèmes occasionnels avec le système hybride sur certains modèles",
+      "Bruits de suspension sur les routes accidentées",
+      "Système d'infodivertissement parfois lent",
+      "Espace de coffre limité"
+    ],
+    "comments": [
+      {
+        "name": "Nicolas",
+        "rating": 5,
+        "comment": "Extrêmement fiable et économique. La version hybride est impressionnante en ville."
+      },
+      {
+        "name": "Émilie",
+        "rating": 4,
+        "comment": "Excellente fiabilité et faible consommation. Un peu petite pour les longs trajets en famille."
+      }
+    ]
+  },
+  {
+    "id": "seat-ibiza",
+    "name": "Ibiza",
+    "brand": "Seat",
+    "year": 2019,
+    "expertRating": 4.0,
+    "communityRating": 3.9,
+    "commonIssues": [
+      "Problèmes de chaîne de distribution sur certains moteurs",
+      "Défaillances du système multimédia",
+      "Usure prématurée des pneus avant",
+      "Bruits de suspension sur les routes accidentées"
+    ],
+    "comments": [
+      {
+        "name": "Antoine",
+        "rating": 4,
+        "comment": "Excellente dynamique de conduite et bon rapport qualité-prix. Bien équipée pour son segment."
+      },
+      {
+        "name": "Lucie",
+        "rating": 3,
+        "comment": "Design attrayant mais quelques problèmes de fiabilité avec l'électronique."
+      }
+    ]
+  }
+]
+
