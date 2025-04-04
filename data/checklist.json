@@ -1,0 +1,137 @@
+{
+  "engine": [
+    {
+      "label": "Oil Color & Level",
+      "description": "Check using the dipstick when engine is cold. Oil should be amber to light brown, not black or milky.",
+      "video": "https://youtube.com/embed/O1hF25Cowv8"
+    },
+    {
+      "label": "Engine Sound (Cold Start)",
+      "description": "Listen for irregular noises on a cold engine start. There should be no knocking, ticking, or grinding sounds.",
+      "video": "https://youtube.com/embed/8QQF8c2fJJY"
+    },
+    {
+      "label": "Exhaust Smoke",
+      "description": "Check for blue smoke (oil burning), white smoke (coolant leak), or black smoke (rich fuel mixture).",
+      "video": "https://youtube.com/embed/xqU9a8aUZdQ"
+    },
+    {
+      "label": "Coolant Level & Color",
+      "description": "Check coolant reservoir level and color. Should be between min/max marks and not rusty or oily.",
+      "video": "https://youtube.com/embed/g8YZF5cW7-A"
+    }
+  ],
+  "body": [
+    {
+      "label": "Panel Gaps & Alignment",
+      "description": "Check for consistent panel gaps and proper alignment. Inconsistent gaps may indicate previous repairs.",
+      "video": "https://youtube.com/embed/Dj_5KyO2TVk"
+    },
+    {
+      "label": "Paint Condition & Matching",
+      "description": "Look for paint differences between panels, which may indicate repairs. Check for rust spots and bubbling.",
+      "video": "https://youtube.com/embed/ViOF4xfLHdM"
+    },
+    {
+      "label": "Rust Inspection",
+      "description": "Check common rust areas: wheel wells, door bottoms, trunk seals, and undercarriage.",
+      "video": "https://youtube.com/embed/n4vusY2-rkQ"
+    },
+    {
+      "label": "Glass & Lights",
+      "description": "Inspect all windows for cracks and chips. Check all lights for proper operation and moisture inside.",
+      "video": "https://youtube.com/embed/QlvU1vmAVkc"
+    }
+  ],
+  "interior": [
+    {
+      "label": "Seat Condition",
+      "description": "Check for excessive wear, tears, stains, and proper adjustment mechanisms.",
+      "video": "https://youtube.com/embed/QTst6ZdlVtg"
+    },
+    {
+      "label": "Dashboard Warning Lights",
+      "description": "Start the car and check that all warning lights illuminate briefly and then turn off.",
+      "video": "https://youtube.com/embed/uKxRW9FBpBU"
+    },
+    {
+      "label": "Electronics & Features",
+      "description": "Test all electronics: windows, locks, mirrors, climate control, audio system, and navigation.",
+      "video": "https://youtube.com/embed/ZQvfHyfgBtA"
+    },
+    {
+      "label": "Odor Check",
+      "description": "Smell for musty odors that might indicate water damage or mold issues.",
+      "video": "https://youtube.com/embed/Pq32bvJ5oNE"
+    }
+  ],
+  "chassis": [
+    {
+      "label": "Frame Inspection",
+      "description": "Look for bent or damaged frame components, which may indicate a serious accident.",
+      "video": "https://youtube.com/embed/EyJmxCcI5vQ"
+    },
+    {
+      "label": "Undercarriage Damage",
+      "description": "Check for scrapes, dents, or fluid leaks on the underside of the vehicle.",
+      "video": "https://youtube.com/embed/3jHXU_vnBpU"
+    }
+  ],
+  "brakes": [
+    {
+      "label": "Brake Pad Thickness",
+      "description": "Visually inspect brake pad thickness through the wheel spokes. Should have at least 3-4mm remaining.",
+      "video": "https://youtube.com/embed/lWLg8J9vZxQ"
+    },
+    {
+      "label": "Brake Rotor Condition",
+      "description": "Check for scoring, grooves, or rust on the brake rotors. Surface should be relatively smooth.",
+      "video": "https://youtube.com/embed/9Xp0DV5JVq8"
+    },
+    {
+      "label": "Tire Tread Depth",
+      "description": "Use a tread depth gauge or the penny test to check tire tread. Should be at least 3-4mm deep.",
+      "video": "https://youtube.com/embed/gisKVPwNBqo"
+    },
+    {
+      "label": "Tire Wear Pattern",
+      "description": "Check for even wear across all tires. Uneven wear may indicate alignment or suspension issues.",
+      "video": "https://youtube.com/embed/AT_pPlJTiyE"
+    }
+  ],
+  "suspension": [
+    {
+      "label": "Bounce Test",
+      "description": "Push down on each corner of the car and release. It should bounce once and settle, not continue bouncing.",
+      "video": "https://youtube.com/embed/kzaDIV3YIgw"
+    },
+    {
+      "label": "Shock/Strut Inspection",
+      "description": "Look for leaking fluid on shocks/struts, which indicates they need replacement.",
+      "video": "https://youtube.com/embed/mPjC1VHHXe0"
+    }
+  ],
+  "testDrive": [
+    {
+      "label": "Acceleration Test",
+      "description": "Test smooth acceleration without hesitation, vibration, or unusual noises.",
+      "video": "https://youtube.com/embed/drbhNLvbiZU"
+    },
+    {
+      "label": "Braking Test",
+      "description": "Test brakes at various speeds. Car should stop in a straight line without pulling to either side.",
+      "video": "https://youtube.com/embed/7lRETLfXnc0"
+    },
+    {
+      "label": "Steering Feel",
+      "description": "Check for play in the steering wheel and smooth turning without noises or vibration.",
+      "video": "https://youtube.com/embed/Uj2JvEU7NyE"
+    },
+    {
+      "label": "Transmission Shifting",
+      "description": "Shifts should be smooth without hesitation, slipping, or hard engagement.",
+      "video": "https://youtube.com/embed/hk-c5jlk48s"
+    }
+  ]
+}
+
