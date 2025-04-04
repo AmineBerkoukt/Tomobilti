@@ -9,7 +9,10 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"], display: "swap" })
 
 export const metadata: Metadata = {
-  title: "Tomobilti - Vérification de Voitures d'Occasion",
+  title: {
+    template: "%s | Tomobilti",
+    default: "Tomobilti - Vérification de Voitures d'Occasion",
+  },
   description:
     "Évaluez les voitures d'occasion en toute confiance avec des listes de contrôle interactives et des conseils d'experts",
   icons: {
@@ -17,7 +20,6 @@ export const metadata: Metadata = {
     shortcut: "/favicon-16x16.png",
     apple: "/apple-touch-icon.png",
   },
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -45,6 +47,3 @@ export default function RootLayout({
   )
 }
 
-
-
-import './globals.css'
